@@ -4,6 +4,7 @@ import { Grid } from "@mui/material";
 import DisplayRecipe from "./DisplayRecipe";
 import React, { useState } from "react";
 
+// Rezepte
 const initialRecipes = [
   {
     text: `   
